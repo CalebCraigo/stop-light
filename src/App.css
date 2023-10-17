@@ -26,3 +26,9 @@
 .light:not(.on) {
   background-color: gray;
 }
+
+.page {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
