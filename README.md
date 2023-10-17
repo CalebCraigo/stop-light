@@ -1,3 +1,5 @@
+This is a basic state machine using react. This will render 4 "Stop Lights" some with a default state that begins with a red light others have a different initial state passed through to them. Each light will cycle through the lights at set intervals.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
